@@ -18,15 +18,16 @@ Pyspark is the Python API for Apache Spark, an open source, distributed computin
 6) Filter operations
 7) Aggregate functions
 8) Linear regression problem 
-  8.1) importing vector assembler
+
+    8.1) importing vector assembler
   
-  8.2) importing linear regression
+    8.2) importing linear regression
   
  
-  8.3) coefficient
+    8.3) coefficient
   
-  8.4) intercept
+    8.4) intercept
   
-  8.5) prediction
+    8.5) prediction
   
 # Thank You.☻
