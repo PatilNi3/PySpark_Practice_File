@@ -6,6 +6,7 @@ Pyspark is the Python API for Apache Spark, an open source, distributed computin
 
 ## Why PySpark
 • It is a general engine for big data analysis, processing & computation.
+
 • It provides fast computation over big data.
 
 ## Contents
